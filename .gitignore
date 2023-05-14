@@ -3,3 +3,8 @@ node_modules/
 frontend/price-checker/node_modules/
 frontend/price-checker/dist/
 backend/node_modules/
+node_modules/
+.DS_Store
+frontend/price-checker/node_modules/
+frontend/price-checker/dist/
+backend/node_modules/
